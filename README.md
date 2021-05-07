@@ -1,6 +1,6 @@
 # Exquisite cadaver Lit component
 
-:warnning: This project is a test poc to use LitElement with typescript / redux. 
+:warning: This project is a test poc to use LitElement with typescript / redux. 
 If you end up here looking for answers please don't look at this repo.
 
 This project is derived from [LitElement Typescript starter](https://github.com/PolymerLabs/lit-element-starter-ts).
